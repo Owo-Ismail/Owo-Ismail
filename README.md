@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ismail Owolabi
 
-<!--
-**Owo-Ismail/Owo-Ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Intelligence Analyst
 
-Here are some ideas to get you started:
+I transform raw data into actionable insights using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Power BI
+- Excel
+- MySQL
+- Power Query
+- DAX
+
+## Featured Projects
+
+📊 Pharmaceutical Competitive Intelligence Dashboard
+
+📈 Employee KPI Analytics Dashboard
+
+🗄️ World Layoffs SQL Analysis
+
+🎓 RTV (Real-Time Visibility) Dashboard
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/ismail-owolabi
+
+Email:
+owo.ismail@gmail.com## Hi there 👋
+
